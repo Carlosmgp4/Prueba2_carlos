@@ -1,7 +1,7 @@
 ## Prueva de fichero Markdown
 ### Realizado por Carlos
 
-Prueba de parrafo con letra en **negrita** , *cursiva* y > codigo
+Prueba de parrafo con letra en **negrita** , *cursiva* y `codigo`
 
 Una vez hecho esto, pondremos un trozo de codigo:
 
