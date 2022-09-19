@@ -21,7 +21,7 @@ Lista desordenada:
 
 En este enlace podreis encontrar mi perfil de [github](https://github.com/Carlosmgp4)
 
-Mas información en la [guía](https://github.com/Carlosmgp4/Prueba2_carlos/guia-md)
+Mas información en la [guía](https://github.com/Carlosmgp4/Prueba2_carlos/blob/main/guia.md)
 
 ![logo](logo.jpeg)
 
